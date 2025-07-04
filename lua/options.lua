@@ -18,3 +18,6 @@ vim.opt.inccommand = "split"
 vim.opt.ignorecase = true
 
 vim.opt.termguicolors = true
+-- space leader key
+vim.g.mapleader = " "
+
